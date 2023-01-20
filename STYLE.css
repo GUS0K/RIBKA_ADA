@@ -1,0 +1,13 @@
+img{
+    transition: 334s;
+    width: 20%;
+    padding-left: 100px;
+}
+
+img:hover{
+    transform: rotate(1000000000000000000000000deg);
+}
+
+body{
+    background-image: url(http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcS0ylcLYaQ4_6yLE9OeGSw9xsVJ-HBipo7dwB85xkqrM-nxesE_3hVJsP2cv2LGhM98);
+}
